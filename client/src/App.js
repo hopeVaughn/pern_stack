@@ -6,6 +6,7 @@ function App() {
     <Fragment>
       <div className="container">
         <InputTodo />
+        <ListTodo />
       </div>
     </Fragment>
   )
