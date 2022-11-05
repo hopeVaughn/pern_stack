@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-import { InputTodo, EditTodo, ListTodo } from './components/index';
+import { InputTodo, ListTodo } from './components/index';
 import './App.css';
 function App() {
   return (
